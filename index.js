@@ -1,8 +1,8 @@
-const divide = function (x,y) {
+const divide = function () {
     return 2000/100
 }
 
-const square = x => Math.pow(x,x)
+const square = x => x*x
 
 const add = (a,b) => a+b
 
